@@ -1,9 +1,10 @@
+
 =============
 encode-decoder-lstm
 =============
 
 
-Sequence to sequence prediction using LSTM model using keras, numpy and panda
+Sequence to sequence prediction using LSTM model using keras, numpy and panda.
 
 
 Note
